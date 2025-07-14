@@ -5,6 +5,12 @@ Extended Kalman Filter (EKF) — a model-based method leveraging battery system 
 Machine Learning (ML) — data-driven models including Linear Regression, Decision Trees, Gradient Boosting, and XGBoost
 
 The objective is to develop accurate SoC estimation models using voltage, current, and temperature inputs, and to analyze their performance using both MATLAB/Simulink and Python-based tools.
+## 📊 Excel Data Preview
+
+![Excel Preview](simulink/thevnin.png)
+
+
+
 
 BATTERY MODELING AND DATASET DESCRIPTION
 EQUIVALENT CIRCUIT MODEL(ECM)
