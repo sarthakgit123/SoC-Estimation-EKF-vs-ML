@@ -7,7 +7,7 @@ Machine Learning (ML) — data-driven models including Linear Regression, Decisi
 The objective is to develop accurate SoC estimation models using voltage, current, and temperature inputs, and to analyze their performance using both MATLAB/Simulink and Python-based tools.
 ## 📊 Excel Data Preview
 
-![Excel Preview](simulink/thevnin.png)
+![image Preview](simulink/thevnin.png)
 
 
 
